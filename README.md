@@ -3,6 +3,11 @@
 
 Welcome to the official repository for the **Python for Absolute Beginners** workshop! This series of Jupyter notebooks is designed for true novices—no prior programming experience required.
 
+## 👥 Authors
+
+- Alfred Essa
+- James Rioux
+
 ## 📚 What You'll Learn
 
 - How to write and run Python code in Jupyter notebooks
