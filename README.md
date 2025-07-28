@@ -36,7 +36,25 @@ Welcome to the official repository for the **Python for Absolute Beginners** wor
 
 ## 🚀 Getting Started
 
-Open any notebook in [Google Colab](https://colab.research.google.com/) or run locally with Jupyter.
+There are various options to use the Notebooks:
+
+1. **Run Online with Binder** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/genaifab/pythonbasics/main)
+   - Click the Binder badge above
+   - Wait for the environment to build (this may take a few minutes)
+   - Once loaded, click on any notebook to begin
+   - No installation required!
+
+2. **Run Locally**:
+   - Clone this repository
+   - Install Python 3.8 or higher
+   - Install Jupyter: `pip install jupyter`
+   - Run `jupyter notebook` in the project directory
+   - Navigate to any notebook to begin
+
+3. **Google Colab**:
+   - Click on any notebook in the repository
+   - Look for the "Open in Colab" button
+   - Requires a Google account
 
 ## 🏆 Completion Certificate
 
