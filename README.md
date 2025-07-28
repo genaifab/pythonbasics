@@ -40,7 +40,7 @@ Open any notebook in [Google Colab](https://colab.research.google.com/) or run l
 
 ## 🏆 Completion Certificate
 
-You can fill out your own certificate using `certificate.md` or issue one to your students at the end of the course.
+You can fill out your own certificate using `certificate.md` 
 
 ---
 
