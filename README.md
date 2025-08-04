@@ -1,6 +1,9 @@
 
 # 🐍 Python for Absolute Beginners
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/genaifab/pythonbasics/main)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/genaifab/pythonbasics)
+
 Welcome to the official repository for the **Python for Absolute Beginners** workshop! This series of Jupyter notebooks is designed for true novices—no prior programming experience required.
 
 ## 👥 Authors
@@ -36,25 +39,33 @@ Welcome to the official repository for the **Python for Absolute Beginners** wor
 
 ## 🚀 Getting Started
 
-There are various options to use the Notebooks:
+Choose your preferred way to run the notebooks:
 
-1. **Run Online with Binder** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/genaifab/pythonbasics/main)
-   - Click the Binder badge above
-   - Wait for the environment to build (this may take a few minutes)
-   - Once loaded, click on any notebook to begin
-   - No installation required!
+### ☁️ Option 1: Run Online (No Installation Required!)
 
-2. **Run Locally**:
-   - Clone this repository
-   - Install Python 3.8 or higher
-   - Install Jupyter: `pip install jupyter`
-   - Run `jupyter notebook` in the project directory
-   - Navigate to any notebook to begin
+#### **Google Colab** (Recommended for beginners)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/genaifab/pythonbasics)
+- Click the Colab badge above or at the top of this README
+- Navigate to the `notebooks` folder in the file browser
+- Select any notebook to start learning
+- Notebooks run instantly - no waiting!
+- Free with a Google account
+- **Tip**: Save a copy to your Google Drive to keep your progress
 
-3. **Google Colab**:
-   - Click on any notebook in the repository
-   - Look for the "Open in Colab" button
-   - Requires a Google account
+#### **MyBinder** 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/genaifab/pythonbasics/main)
+- Click the Binder badge above or at the top of this README
+- Wait for the environment to build (may take 2-5 minutes)
+- Once loaded, navigate to `notebooks` folder
+- Click on any notebook to begin
+- No account needed
+
+### 💻 Option 2: Run Locally
+- Clone this repository: `git clone https://github.com/genaifab/pythonbasics.git`
+- Install Python 3.8 or higher
+- Install Jupyter: `pip install jupyter`
+- Run `jupyter notebook` in the project directory
+- Navigate to the `notebooks` folder and select any notebook
 
 ## 🏆 Completion Certificate
 
